@@ -13,5 +13,5 @@ Python 3.10
 Anaconda Jupyter Notebook 6.5.6
 Tensorflow 2.10
 
-Run the code
+Execute the code DermXNet.ipynb
 
